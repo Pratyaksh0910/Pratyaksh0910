@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pratyaksh0910
 - 👀 I’m interested in coding and hacking 
 - 🌱 I’m currently learning CPP and many more new things
-- 💞️ I’m looking to collaborate on many porjects,events etc
+- 💞️ I’m looking to collaborate on many projects,events etc
 - 📫 How to reach me, mail pratyaksh9agrawal@gmail.com
 
 <!---
